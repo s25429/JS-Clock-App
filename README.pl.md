@@ -1,6 +1,6 @@
 # JS-Clock-App
 > Prosta zegarowa aplikacja internetowa zrobiona w HTML i JS.
->> [Live Demo Tutaj!]()\
+>> [Live Demo Tutaj!](https://thathoracy-js-clock-app.netlify.app)\
 >> README w języku angielsku [tutaj](README.md).
 
 ## Spis Treści

@@ -1,6 +1,6 @@
 # JS-Clock-App
 > A simple clock app made in HTML CSS and JS.
->> [Live Demo Here!]()\
+>> [Live Demo Here!](https://thathoracy-js-clock-app.netlify.app)\
 >> README in Polish [here](./README.pl.md).
 
 ## Table of Contents
