@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta name="description" content="Clock App using vanilla JS">
+  <meta name="author" content="Cezary Ciślak">
+  <title>Clock</title>
+
+  <!-- Local Files -->
+  <link rel="stylesheet" href="./style.css">
+  <script type="module" src="./app.js"></script>
+</head>
+<body>
+  <div class="box">
+    <div class="clock">
+      <div class="center"></div>
+      <div class="seconds-arm arm"></div>
+      <div class="minutes-arm arm"></div>
+      <div class="hours-arm arm"></div>
+
+      <div class="arrow a1">I</div>
+      <div class="arrow a2">II</div>
+      <div class="arrow a3">III</div>
+      <div class="arrow a4">IV</div>
+      <div class="arrow a5">V</div>
+      <div class="arrow a6">VI</div>
+      <div class="arrow a7">VII</div>
+      <div class="arrow a8">VIII</div>
+      <div class="arrow a9">IX</div>
+      <div class="arrow a10">X</div>
+      <div class="arrow a11">XI</div>
+      <div class="arrow a12">XII</div>
+    </div>
+    <picture>
+      <source media="(orientation:landscape)" srcset="./dog1.jpg">
+      <source media="(orientation:portrait)" srcset="./dog2.jpg">
+      <img src="./dog1.jpg" alt="Dog">
+    </picture>
+    <div class="back"></div>
+  </div>
+
+  <script type="module" src="./main.js"></script>
+</body>
+</html>
