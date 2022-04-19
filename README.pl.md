@@ -34,4 +34,5 @@ Projekt jest na razie zamknięty, ale nie skończony. Implementacja wskazówek z
 
 ## Kontakt
 Stworzone przez s25429 AKA [ThatHoracy](https://github.com/ThatHoracy), na ten moment opublikowane na koncie z mailem uczelnianym (ten obecny!)
-- Email: s25429@pjwstk.edu.pl
+- Email: cezary.cislak@gmail.com
+- LinkedIn: [strona profilu](https://www.linkedin.com/in/cezary-ci%C5%9Blak-913559237/)
