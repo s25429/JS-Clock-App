@@ -34,4 +34,5 @@ Project is done for now, but not finished. The implementation of the clock arms 
 
 ## Contact
 Created by s25429 AKA [ThatHoracy](https://github.com/ThatHoracy), but currently posted on an account using school email (this one!)
-- Email: s25429@pjwstk.edu.pl
+- Email: cezary.cislak@gmail.com
+- LinkedIn: [profile page](https://www.linkedin.com/in/cezary-ci%C5%9Blak-913559237/)
