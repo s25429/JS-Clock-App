@@ -9,7 +9,6 @@
 * [Zrzuty Ekranu](#zrzuty-ekranu)
 * [Uruchamianie i Wgląd](#uruchamianie-i-wgląd)
 * [Status Projektu](#status-projektu)
-* [Kontact](#kontakt)
 
 ## Ogólne Informacje
 Prosta zegarowa aplikacja internetowa. Nie jest to najlepsza możliwość tworzenia aplikacji zegara, ale na pewno jakaś.\
@@ -31,8 +30,3 @@ Pewne specyficzne smaczki to na przykład ciekawa animacja przy załadowaniu str
 
 ## Status Projektu
 Projekt jest na razie zamknięty, ale nie skończony. Implementacja wskazówek zegara jest raczej średnia i nie płynna z powodu jak ją stworzyłem. Za jakiś czas może spróbuje jeszcze raz, przerobię na płynniejszą i ogólnie lepszą aplikację.
-
-## Kontakt
-Stworzone przez s25429 AKA [ThatHoracy](https://github.com/ThatHoracy), na ten moment opublikowane na koncie z mailem uczelnianym (ten obecny!)
-- Email: cezary.cislak@gmail.com
-- LinkedIn: [strona profilu](https://www.linkedin.com/in/cezary-ci%C5%9Blak-913559237/)
