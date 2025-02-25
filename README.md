@@ -9,7 +9,6 @@
 * [Screenshots](#screenshots)
 * [Launching and Viewing](#launching-and-viewing)
 * [Project Status](#project-status)
-* [Contact](#contact)
 
 ## General Information
 A simple clock app with not much more there. It is not the best way to make a clock, but it's definetly one of them.\
@@ -31,8 +30,3 @@ Some specific nuances are an animation on when the page loads in and an image of
 
 ## Project Status
 Project is done for now, but not finished. The implementation of the clock arms is rather quirky and not smooth at all due to how I created it. I might try once again after some time and make it smoother and overall better.
-
-## Contact
-Created by s25429 AKA [ThatHoracy](https://github.com/ThatHoracy), but currently posted on an account using school email (this one!)
-- Email: cezary.cislak@gmail.com
-- LinkedIn: [profile page](https://www.linkedin.com/in/cezary-ci%C5%9Blak-913559237/)
